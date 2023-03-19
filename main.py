@@ -28,5 +28,5 @@ if __name__ == '__main__':
         listen="0.0.0.0",
         port=PORT,
         secret_token='ASecretTokenIHaveChangedByNow',
-        webhook_url="https://<appname>.herokuapp.com/"
+        webhook_url="https://webhooked.onrender.com"
     )
